@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 欢迎使用 致通期货-期货行情中证资讯App
 
-You can use the [editor on GitHub](https://github.com/sheZhuang/zhitong/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://icon.wuruihong.com/files/202103/zqskdK8I/ios/AppIcon.appiconset/icon-76.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+致通期货是专为期货喜好者服务的一款软件，用户可以实时获取行业最新资讯，及时了解现下行情数据。
+在平台可提前预约各种活动，不用线下排队预约。您可以在发现中与同行爱好者一起交流心得，在分享中提升自己。
 
-### Markdown
+您在使用致通期货时遇到任何问题，请及时通过App内意见反馈或下面的电话与我们联系，我们将尽快为您解决
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# 联系我们
+来自：上海奢装网络科技有限公司 Inc  联系我们：021-64902373
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sheZhuang/zhitong/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
